@@ -1,0 +1,42 @@
+* {
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+main {
+    width: 600px;
+    margin: auto;
+}
+
+ul {
+    padding: 0;
+}
+
+button,
+a {
+    background: purple;
+    text-decoration: none;
+    color: white;
+    border: 2px solid black;
+    padding: 5px 10px;
+    font-size: 14px;
+}
+
+ul li {
+    display: flex;
+    align-items: center;
+    gap: 16px;
+    padding: 5px 10px;
+    border: 2px solid purple;
+}
+
+form div {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 10px;
+
+    label {
+        margin-bottom: 8px;
+        color: rgb(245, 73, 39);
+    }
+}

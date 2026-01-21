@@ -31,7 +31,9 @@ class ListaTareasEditar(UpdateView):
     model = Tarea
     fields = ['titulo', 'descripcion', 'estado']
     template_name = 'lista_tareas/editar.html'
-    success_url = reverse_lazy('lista_tareas')
+
+    def get_success_url(self):
+        return reverse_lazy('detalle_tarea', kwargs={'pk': self.object.pk})
 
 class ListaTareasEliminar(DeleteView):
     model = Tarea

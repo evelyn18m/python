@@ -1,24 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c309617f-886c-47ca-8d65-f997d5d6e20a" name="Changes" comment="" />
+    <list default="true" id="c309617f-886c-47ca-8d65-f997d5d6e20a" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/Python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pagina_web/lista_tareas/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/pagina_web/lista_tareas/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pagina_web/pagina_web/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/pagina_web/pagina_web/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pagina_web/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/pagina_web/templates/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pagina_web/templates/lista_tareas/detalles.html" beforeDir="false" afterPath="$PROJECT_DIR$/pagina_web/templates/lista_tareas/detalles.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pagina_web/templates/lista_tareas/lista.html" beforeDir="false" afterPath="$PROJECT_DIR$/pagina_web/templates/lista_tareas/lista.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 1
 }]]></component>
   <component name="ProjectId" id="38Xa4Acpc7FspcOmMoCLoNPZWHz" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="SharedIndexes">
