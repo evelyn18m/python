@@ -1,0 +1,6 @@
+{% extends 'base.html' %}
+{% block content %}
+<h1>{{ tarea.titulo }}</h1>
+<p>{{ tarea.descripcion}}</p>
+<p>{{ tarea.get_estado_display }}</p>
+{% endblock %}
