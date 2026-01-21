@@ -4,6 +4,7 @@
 <ul>
     {% for tarea in tareas %}
     <li>
+        {{ tarea.get_estado_display}} -
         {{ tarea.titulo }}
         <a href="{% url 'detalle_tarea' tarea.id %}">Ver Detalles</a>
         <a href="{% url 'editar_tarea' tarea.id %}">Editar</a>
